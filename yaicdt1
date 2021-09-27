@@ -9,7 +9,7 @@
       "title": "Chapter 1",
       "season": "1",
       "groups": {
-        "Scan Beans": "https://imgur.com/a/oYLXmbQ"
+        "Scan Beans": "/proxy/api/imgur/chapter/oYLXmbQ/"
       },
       "last_updated": "1632696012"
     },
@@ -17,7 +17,7 @@
       "title": "Chapter 2",
       "volume": "1",
       "groups": {
-        "Scan Beans": "https://imgur.com/a/u4oBkko"
+        "Scan Beans": "/proxy/api/imgur/chapter/u4oBkko/"
       },
       "last_updated": "1632696012"
     },
@@ -25,7 +25,7 @@
       "title": "Chapter 3",
       "season": "1",
       "groups": {
-        "Scan Beans": "https://imgur.com/a/EaIvG0c"
+        "Scan Beans": "/proxy/api/imgur/chapter/EaIvG0c/"
       },
       "last_updated": "1632696012"
     },
@@ -33,7 +33,7 @@
       "title": "Chapter 4",
       "season": "1",
       "groups": {
-        "Scan Beans": "https://imgur.com/a/zU3wuHb"
+        "Scan Beans": "/proxy/api/imgur/chapter/zU3wuHb/"
       },
       "last_updated": "1632696012"
     },    
@@ -41,7 +41,7 @@
       "title": "Chapter 5",
       "season": "1",
       "groups": {
-        "Scan Beans": "https://imgur.com/a/DGXy3fg"
+        "Scan Beans": "/proxy/api/imgur/chapter/DGXy3fg/"
       },
       "last_updated": "1632696012"
     },
@@ -49,7 +49,7 @@
       "title": "Chapter 6",
       "season": "1",
       "groups": {
-        "Scan Beans": "https://imgur.com/a/kTPnNl7"
+        "Scan Beans": "/proxy/api/imgur/chapter/kTPnNl7/"
       },
       "last_updated": "1632696012"
     } 
