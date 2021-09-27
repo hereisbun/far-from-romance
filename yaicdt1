@@ -52,6 +52,22 @@
         "Scan Beans": "/proxy/api/imgur/chapter/kTPnNl7/"
       },
       "last_updated": "1632696012"
+       },    
+    "7": {
+      "title": "Chapter 7",
+      "season": "1",
+      "groups": {
+        "Scan Beans": "/proxy/api/imgur/chapter/ftZNxEW/"
+      },
+      "last_updated": "1632707198"
+    },
+    "8": {
+      "title": "Chapter 8",
+      "season": "1",
+      "groups": {
+        "Scan Beans": "/proxy/api/imgur/chapter/SIJzMoU/"
+      },
+      "last_updated": "1632707198"
     } 
   }
 }
